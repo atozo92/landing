@@ -1,0 +1,14 @@
+
+.avatar {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+
+#sb {
+	margin-bottom: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+  	border: 3px solid grey;
+  }
